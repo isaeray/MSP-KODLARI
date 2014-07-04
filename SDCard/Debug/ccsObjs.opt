@@ -1,0 +1,1 @@
+"./rena.obj" "./pulsar.obj" "./pre_init.obj" "./main.obj" "./UART.obj" "./Timer.obj" "./ByteFunctions.obj" "./ADC.obj" "./AD9243.obj" "../lnk_msp430f5438a.cmd" -l"libc.a" -l"libmath.a" 
